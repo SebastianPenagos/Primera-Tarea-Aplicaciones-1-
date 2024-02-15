@@ -1,3 +1,5 @@
+package com.mycompany.primerproyecto;
+
 
 import java.util.Scanner;
 
